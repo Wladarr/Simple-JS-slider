@@ -1,0 +1,23 @@
+*{
+	margin: 0;
+}
+.container{
+	margin-top: 3em;
+	margin-left: 25%;
+	width: 612px;
+}
+img{
+	border-radius: 4px;
+}
+.show{
+	display: initial;
+}
+.hide{
+	display: none;
+}
+input{
+	cursor: pointer;
+}
+input[value="next"]{
+	margin-left: 85.5%;
+}
